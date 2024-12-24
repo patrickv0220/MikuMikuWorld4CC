@@ -1,26 +1,26 @@
-# code: en
+# code: pt
 # key, value
 
-language_name,
-translator,
+language_name, Português
+translator, Patrick (@patrickv0220)
 
 # menu bar
-file,
-new,
-open,
-open_recent,
-clear,
-save,
-save_as,
-export_sus,
-export_usc,
-exit,
-edit,
-undo,
+file, Arquivo
+new, Novo
+open, Abrir
+open_recent, Abrir recente
+clear, 
+save, Salvar
+save_as, Salvar como
+export_sus, Exportar SUS
+export_usc, Exportar USC
+exit, Sair
+edit, Editar
+undo, 
 redo,
 select_all,
 view,
-settings,
+settings, Configurações
 window,
 vsync,
 show_fps,
@@ -34,8 +34,8 @@ file_not_found,
 file_not_found_msg1,
 file_not_found_msg2,
 remove_recent_file_not_found,
-yes,
-no,
+yes, Sim
+no, Não
 unsaved_changes,
 ask_save,
 warn_unsaved,
