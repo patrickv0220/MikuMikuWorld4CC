@@ -9,6 +9,7 @@
 [![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-vi)](./MikuMikuWorld/res/i18n/vi.csv)
 [![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-tr)](./MikuMikuWorld/res/i18n/tr.csv)
 [![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-pt)](./MikuMikuWorld/res/i18n/pt.csv)
+
 Fork of [MikuMikuWorld](https://github.com/crash5band/MikuMikuWorld) for [Chart Cyanvas](https://github.com/sevenc-nanashi/chart_cyanvas).
 
 ## Added Features:
